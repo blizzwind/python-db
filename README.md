@@ -15,5 +15,8 @@ python main.py
 ~ query [values]
 ```
 
-### develop
-still under construction...
+### purpose
+key                   | value
+--------------------- | ---
+[feature description] | [X, Y, Z]
+...                   | ...
