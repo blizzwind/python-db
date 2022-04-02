@@ -14,9 +14,3 @@ python main.py
 ~ add [values]
 ~ query [values]
 ```
-
-### purpose
-key                   | value
---------------------- | ---
-[feature description] | [X, Y, Z]
-...                   | ...
