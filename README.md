@@ -14,3 +14,6 @@ python main.py
 ~ add [values]
 ~ query [values]
 ```
+
+### purpose
+a demonstration of Global Positioning System Based on Feature Matching (GPSBFM)
