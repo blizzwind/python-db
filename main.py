@@ -1,7 +1,7 @@
 import db
 
-d = {}
+db.run()
 
 while True:
     q = input("~ ")
-    print(db.exc(d, q))
+    print(db.exc(q))
